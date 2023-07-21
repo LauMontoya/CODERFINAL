@@ -1,4 +1,5 @@
-# CODERFINAL
+# CODERFINAL project
+
 A continuación, se muestra un proyecto simple utilizando las bases de Django para realizar lo siguiente:
 
 1. Creación de una aplicación.
